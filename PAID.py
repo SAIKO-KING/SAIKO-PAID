@@ -37,7 +37,6 @@ print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CH
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
 os.system(f'xdg-open https://youtube.com/@jokargamingyt100?si=a_4jPxgIGl7qUup3')
-os.system(f'xdg-open https://www.facebook.com/mdjihad.rana.1806)
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ JIHAD-RANA ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
